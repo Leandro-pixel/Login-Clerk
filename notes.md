@@ -1,0 +1,2 @@
+-install nextjs with app-router
+-the style code is in tailwind styling on the classes of each item
